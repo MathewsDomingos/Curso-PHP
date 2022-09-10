@@ -8,6 +8,7 @@
 </head>
 <body>
   <div>
+    <strong>Passar os valores na URL</strong>
       <?php
         $n1 = $_GET["a"];
         $n2 = $_GET["b"];
